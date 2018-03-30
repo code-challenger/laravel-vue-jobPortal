@@ -1,1 +1,1 @@
-Laravel scout installed on 3/28/2018
+Laravel scout installed on 3/30/2018
