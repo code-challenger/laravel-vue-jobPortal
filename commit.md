@@ -1,1 +1,1 @@
-add frontend assets on 6/14/2018
+Fix typo in vuetable-2 dependencies section on 5/8/2018
