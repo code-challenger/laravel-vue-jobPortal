@@ -1,1 +1,1 @@
-Fix typo in vuetable-2 dependencies section on 5/8/2018
+Update app.js as MyVuetable.vue was updated on 5/10/2018
