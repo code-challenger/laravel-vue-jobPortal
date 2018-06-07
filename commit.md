@@ -1,1 +1,1 @@
-change demo image on 6/1/2018
+fix vue select props type warning on 6/7/2018
