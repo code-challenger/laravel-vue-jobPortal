@@ -1,1 +1,1 @@
-add new webpack dev server http access variable on 6/18/2018
+add new webpack dev server http access variable on 6/20/2018
